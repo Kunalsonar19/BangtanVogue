@@ -581,7 +581,7 @@ body {
 .hero-card {
   background-color: var(--light-gray);
   padding: 100px 15px;
-  background-position: 40%;
+  background-position: 10%;
 }
 
 .hero-text {
@@ -785,7 +785,12 @@ body {
   margin-block: 10px 25px;
 }
 
-
+.banner-card-2 .card-text {
+  color: white;
+  background: black;
+  border-radius: 50px;
+  padding: 7px 0;
+}
 
 
 
