@@ -438,7 +438,7 @@ body {
 
 .header-top.active {
   position: fixed;
-  top: -80px;
+  top: -100px;
   bottom: auto;
   box-shadow: var(--shadow-1);
   transform: translateY(100%);
@@ -1559,7 +1559,7 @@ body {
 
   .header-top.active .navbar {
     position: fixed;
-    top: -80px;
+    top: -100px;
     bottom: auto;
     padding-block: 28px;
     box-shadow: var(--shadow-1);
